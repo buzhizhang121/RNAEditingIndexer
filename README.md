@@ -89,6 +89,6 @@ To run the test please use the following command: \<_InstallPath_\>/RNAEditingIn
 
 Typical runtime should be within 10 min, reference results are in \<_InstallPath_\>/TestResources/CompareTo.
 
-
+[Genome-wide quantification of ADAR adenosine-to-inosine RNA editing activity](https://www.nature.com/articles/s41592-019-0610-9)
 
 © 2019 Tel Aviv University (Erez Y. Levanon, Erez.Levanon@biu.ac.il; Eli Eisenberg, elieis@post.tau.ac.il; Shalom Hillel Roth, shalomhillel.roth@live.biu.ac.il).
